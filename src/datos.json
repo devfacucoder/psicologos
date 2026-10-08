@@ -1,0 +1,105 @@
+{
+  "psicologa": {
+    "nombre": "Valeria Fatima Peña",
+    "titulo": "Licenciada en Psicología Clínica y de la Salud",
+    "rol": "Psicóloga clínica y de la salud",
+    "iniciales": "VF",
+    "foto": "/img-profesional.webp"
+  },
+  "navegacion": [
+    { "label": "Inicio", "href": "#inicio" },
+    { "label": "Servicios", "href": "#servicios" },
+    { "label": "Sobre mí", "href": "#sobre-mi" }
+  ],
+  "inicio": {
+    "badge": "Psicología clínica y de la salud",
+    "titulo": "Tu bienestar emocional empieza aquí",
+    "descripcion": "Terapia individual, de pareja y online con un acompañamiento cercano, confidencial y basado en la evidencia.",
+    "botonContactar": "Contactar",
+    "botonSobreMi": "Sobre mí",
+    "imagenFondo": "/img-portada2.jpg",
+    "checks": [
+      "Acompañamiento cercano",
+      "Tratamiento confidencial",
+      "Presencial y online"
+    ]
+  },
+  "reseñas": {
+    "badge": "Reseñas",
+    "titulo": "Lo que dicen mis pacientes",
+    "items": [
+      {
+        "nombre": "María López",
+        "rol": "Paciente de terapia individual",
+        "texto": "Gracias a la terapia pude enfrentar mis problemas más profundos y hoy me siento mucho más liviana. Un espacio seguro en el que siempre me sentí escuchada.",
+        "imagen": "/img-reseñas/3.webp"
+      },
+      {
+        "nombre": "Carlos García",
+        "rol": "Paciente de terapia de pareja",
+        "texto": "La ayuda profesional cambió mi forma de manejar la ansiedad. Vale me dio las herramientas necesarias para recuperar mi bienestar día a día.",
+        "imagen": "/img-reseñas/2.webp"
+      },
+      {
+        "nombre": "Juan Molina",
+        "rol": "Paciente online",
+        "texto": "Desde la primera sesión noté acompañamiento real y empatía genuina. Recomiendo estos servicios a cualquier persona que esté buscando apoyo.",
+        "imagen": "/img-reseñas/1.webp"
+      }
+    ]
+  },
+  "sobremi": {
+    "badge": "Sobre mí",
+    "titulo": "Un espacio para escucharte y cuidarte",
+    "parrafos": [
+      "Hola, soy Valeria. Acompaño a personas que atraviesan momentos difíciles: ansiedad, estrés, baja autoestima, problemas de pareja o grandes cambios vitales. Mi objetivo es que te sientas acompañado y comprendido, con herramientas reales para recuperar tu equilibrio.",
+      "Trabajo desde un enfoque cercano y humano, combinando la evidencia científica con la empatía de quien entiende que cada proceso es único."
+    ],
+    "lista": [
+      "Especializada en ansiedad, estrés y autoestima",
+      "Terapia de pareja y acompañamiento en relaciones",
+      "Atención presencial y online",
+      "Método basado en la evidencia y adaptado a cada persona"
+    ],
+    "cita": "Creo en una psicología que escucha antes de juzgar y acompaña sin prisas. Tu proceso, a tu ritmo.",
+    "boton": "Agenda tu primera sesión"
+  },
+  "preguntas": {
+    "badge": "Preguntas frecuentes",
+    "titulo": "Resolvamos tus dudas",
+    "descripcion": "Si tenés otra consulta, escribime por el formulario de contacto y te respondo a la brevedad.",
+    "items": [
+      {
+        "pregunta": "¿Las consultas son virtuales o presenciales?",
+        "respuesta": "Ofrezco ambas modalidades. Podés elegir terapia presencial en consultorio u online por videollamada, con la misma calidad y confidencialidad en ambos casos."
+      },
+      {
+        "pregunta": "¿Aceptás obra social?",
+        "respuesta": "Actualmente trabajo de forma particular. Al finalizar cada sesión te entrego los comprobantes necesarios para que puedas gestionar el reintegro con tu obra social o prepaga."
+      },
+      {
+        "pregunta": "¿Cuánto dura una sesión?",
+        "respuesta": "Cada sesión dura aproximadamente 50 minutos. Es el tiempo ideal para trabajar con calma y profundidad, sin sentirte apurado."
+      },
+      {
+        "pregunta": "¿Cada cuánto se realizan las sesiones?",
+        "respuesta": "La frecuencia habitual es semanal, especialmente al inicio del proceso. Según tu evolución, podemos acordar un ritmo quincenal o de seguimiento."
+      },
+      {
+        "pregunta": "¿Cómo funciona la primera sesión?",
+        "respuesta": "El primer encuentro es una sesión de orientación: nos conocemos, escucho tu motivo de consulta y definimos juntos un plan de trabajo adaptado a tus necesidades. Sin ningún compromiso."
+      },
+      {
+        "pregunta": "¿Qué pasa si necesito cancelar una sesión?",
+        "respuesta": "Solo te pido avisar con al menos 24 horas de anticipación para reprogramarla sin costo. Entiendo que pueden surgir imprevistos."
+      }
+    ]
+  },
+  "contacto": {
+    "titulo": "¿Hablamos?",
+    "descripcion": "Escríbeme con total confianza. Te responderé lo antes posible y la primera consulta servirá para conocernos y orientarte sin compromiso.",
+    "email": "contacto@psicologia.com",
+    "botonHeader": "Contactar",
+    "botonEmail": "Contactar por email"
+  }
+}

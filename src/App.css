@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.bg-img {
+  background-image: url("/img-portada2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0.85;
+  animation: heroZoom 24s ease-in-out infinite alternate;
+}
